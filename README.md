@@ -1,4 +1,4 @@
-Hi, I'm KSY07, live in Korea, 27 years old, Developer, Using Python & JAVA
+Hi, I'm KSY07, live in Korea, 27 years old, Full-Stack Developer, ML Modeler, Using Python & JAVA & JSP
 
 <!---
 KSY07/KSY07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
