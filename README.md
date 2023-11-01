@@ -1,4 +1,4 @@
-### Usable Language
+### Usable Languages
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="width:100px;height:100px" />
   <img src="https://i.namu.wiki/i/Rv7cLGvX03Y-IX85VC6HXqtKuAhofMYJdodeW2v38Ghm6eCgDCqAhjXWcAWb0MB5UdvweeYI8QLNalwMevPplw.svg" style="width:100px;height:100px"/>
@@ -9,7 +9,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" style="widht:100px;height:100px" />
 </div>
 
-### Technical Stack's
+### Technical Stacks
 <div>
   <img src="https://img.shields.io/badge/Spring_Framework-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Cloud-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
