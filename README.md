@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="width:100px;height:100px" />
   <img src="https://i.namu.wiki/i/Rv7cLGvX03Y-IX85VC6HXqtKuAhofMYJdodeW2v38Ghm6eCgDCqAhjXWcAWb0MB5UdvweeYI8QLNalwMevPplw.svg" style="width:100px;height:100px"/>
   <img src="https://images.velog.io/images/codemcd/post/13ef824a-175d-41aa-a766-a649bd855a2e/Java_Logo.png" style="height:100px" />
-  <img src="https://blog.kakaocdn.net/dn/XkupJ/btqET7f9ONh/JiR4SUhVhn1ltaPc0cSlUK/img.png" style="width:180px;height:100px" />
   <img src="https://i.namu.wiki/i/6BCaly_IHOsGCno5SofR4NCvQZQp7JzBSaPrRXivLldaA-Rbuceh1oDMN6LfUuZiScaR2eBK7-sGgB-xae_YWA.webp" style="width:100px;height:100px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="widht:100px;height:100px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" style="widht:100px;height:100px" />
