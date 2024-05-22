@@ -4,8 +4,9 @@
   <img src="https://i.namu.wiki/i/Rv7cLGvX03Y-IX85VC6HXqtKuAhofMYJdodeW2v38Ghm6eCgDCqAhjXWcAWb0MB5UdvweeYI8QLNalwMevPplw.svg" style="width:100px;height:100px"/>
   <img src="https://images.velog.io/images/codemcd/post/13ef824a-175d-41aa-a766-a649bd855a2e/Java_Logo.png" style="height:100px" />
   <img src="https://i.namu.wiki/i/6BCaly_IHOsGCno5SofR4NCvQZQp7JzBSaPrRXivLldaA-Rbuceh1oDMN6LfUuZiScaR2eBK7-sGgB-xae_YWA.webp" style="width:100px;height:100px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="widht:100px;height:100px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" style="widht:100px;height:100px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="width:100px;height:100px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" style="width:100px;height:100px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/150px-Rust_programming_language_black_logo.svg.png" style="width:100px;height:100px;" />
 </div>
 
 ### Technical Stacks
