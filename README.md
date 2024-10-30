@@ -27,3 +27,7 @@
   <img src="https://img.shields.io/badge/Hadoop-%2366CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>
+
+### Use Library
+- OCILIB(C Oracle Connector Library)
+- OpenSSL (Implementation SSL/TLS Web Server)
