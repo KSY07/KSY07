@@ -29,5 +29,17 @@
 </div>
 
 ### Use Library
-- OCILIB(C Oracle Connector Library)
+C
+- OCILIB (C Oracle Connector Library)
 - OpenSSL (Implementation SSL/TLS Web Server)
+
+Java
+- Spring
+- RxJava3
+- Reactor3
+
+Python
+- Tensorflow
+- PyTorch
+- FastAPI
+- Flask
